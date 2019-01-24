@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "JHipsterTestApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8082,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "MzdjOTkyNTRmZmQwNmE0NDM5ZDYwYWExZWExMDlhZTBmOGYyYWJjMTdiYzliZmE3ZTI0NmFhZWUzYWIxZDg1OGEwZjMwOGM2MTljZDhhOWRjNGVjNDk4ZGI0NzQ1ZDJhN2I4NGM5OWFlODBjNTRhMzI1MDIzZTBlMjYwZWU4MzQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "DAGNOGO2017",
+  "repository-name": "JHipster-Test-Application"
+}
